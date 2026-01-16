@@ -1,4 +1,4 @@
-![java logo](instructions/java-logo-vector.png)
+![Java logo](.assets/java-logo-vector.png)
 # Lab #01 - Hello CS112!
 Welcome back, Java developers! We got some challenging material ahead, so it's probably a good idea to brush off the dust and rust and reestablish our fundamentals before we venture into new challenges!
 
